@@ -1,2 +1,2 @@
-# java-tutorial
+# Menu
 Handbook for java
